@@ -13,4 +13,5 @@
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Sinchu911/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Sinchu911/leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/Sinchu911/leetcode/tree/master/1661-average-time-of-process-per-machine) |
+| [1934-confirmation-rate](https://github.com/Sinchu911/leetcode/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
