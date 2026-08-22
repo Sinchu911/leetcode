@@ -1,4 +1,5 @@
-# Write your MySQL query statement below
+# using joins
+
 -- SELECT e1.name
 -- FROM Employee e1
 -- JOIN Employee e2
@@ -6,6 +7,7 @@
 -- GROUP BY e1.id, e1.name
 -- HAVING count(e1.id) >= 5
 
+# using subquery
 
 -- select e.name
 -- from Employee e
@@ -16,7 +18,7 @@
 --     having count(id) >=5
 -- ) mgr  on e.id = mgr.managerID
 
-
+# using subquery+where IN 
 
 SELECT name
 FROM Employee
