@@ -49,4 +49,12 @@
 | [1934-confirmation-rate](https://github.com/Sinchu911/leetcode/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Sinchu911/leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Sinchu911/leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Sinchu911/leetcode/tree/master/1768-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Sinchu911/leetcode/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
