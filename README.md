@@ -79,6 +79,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sinchu911/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/Sinchu911/leetcode/tree/master/0605-can-place-flowers) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sinchu911/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Greedy
 |  |
 | ------- |
