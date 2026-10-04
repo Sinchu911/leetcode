@@ -79,6 +79,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sinchu911/leetcode/tree/master/0001-two-sum) |
 | [0238-product-of-array-except-self](https://github.com/Sinchu911/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/Sinchu911/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Sinchu911/leetcode/tree/master/0605-can-place-flowers) |
@@ -96,4 +97,8 @@
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Sinchu911/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Sinchu911/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
