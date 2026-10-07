@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sinchu911/leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Sinchu911/leetcode/tree/master/0007-reverse-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sinchu911/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Euclidean Algorithm
 |  |
