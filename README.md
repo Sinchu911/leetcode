@@ -82,6 +82,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sinchu911/leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sinchu911/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0238-product-of-array-except-self](https://github.com/Sinchu911/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/Sinchu911/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Sinchu911/leetcode/tree/master/0605-can-place-flowers) |
@@ -116,4 +117,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sinchu911/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sinchu911/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sinchu911/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
