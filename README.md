@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sinchu911/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/Sinchu911/leetcode/tree/master/0006-zigzag-conversion) |
 | [0151-reverse-words-in-a-string](https://github.com/Sinchu911/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sinchu911/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Sinchu911/leetcode/tree/master/0443-string-compression) |
